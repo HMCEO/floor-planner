@@ -1,16 +1,1 @@
-body {
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f7f7f7;
-}
 
-.controls {
-    margin-bottom: 20px;
-}
-
-canvas {
-    border: 1px solid black;
-}
